@@ -46,10 +46,10 @@
 
 <h3><b>💻 Tech Stack</b></h3>
 <p align="center">
-
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/react-FF2D20.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
+
 <img src="https://img.shields.io/badge/Bootstrap-008080.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 </p>
 
@@ -58,4 +58,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimakhanam&" alt="rahimakhanam" /></p>
+
+	
 
