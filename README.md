@@ -2,7 +2,7 @@
 <h3 align="center">Content Writer | UX/UI Designer | Front-end Web developer | App developer</h3>
 <img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahimakhanam&label=Profile%20views&color=0e75b6&style=flat" alt="rahimakhanam" /> </p>
+<p align="center">  </p>
 
 
 
@@ -19,13 +19,14 @@
 
 - 📫 How to reach me? mail me at **rahima.khanam45@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahimakhanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rahimakhanam" height="30" width="40" /></a>
-<a href="https://fb.com/rahima.khanam.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="rahima.khanam.54" height="30" width="40" /></a>
-<a href="https://instagram.com/rahima__khanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="rahima__khanam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahima_khanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="rahima_khanam" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahimakhanam45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="rahimakhanam45" height="30" width="40" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=rahimakhanam&label=Profile%20views&color=0e75b6&style=flat" alt="rahimakhanam" />
+
+<p align="center">
+<br>
+<a href="https://www.facebook.com/rahima.khanam.54"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rahimakhanam"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rahima.khanam45@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimakhanam&show_icons=true&locale=en&layout=compact" alt="rahimakhanam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahimakhanam&show_icons=true&locale=en" alt="rahimakhanam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimakhanam&" alt="rahimakhanam" /></p>
 
