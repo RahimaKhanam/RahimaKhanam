@@ -7,7 +7,7 @@
 <p align="center">  </p>
 
 
-- ⚡️ A competitve **Java programmer.
+- ⚡️ A competitve **Java programmer**.
 
 - 🌱 I’m currently learning **Android Development**
 
