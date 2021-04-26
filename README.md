@@ -7,19 +7,15 @@
 <p align="center">  </p>
 
 
-
+- ⚡️ A competitve **Java programmer.
 
 - 🌱 I’m currently learning **Android Development**
-
-- ⚡️ A competitve Java programmer.
 
 - 🤝 Open for collaborations in **Web development 🕸️**
 
 - 💻 I love exploring **new tech stack and building cool stuffs.**
 
 - 🥅 2021 Goals: **Being Fluent in Android Development.**
-
-- 📫 How to reach me? mail me at **rahima.khanam45@gmail.com**
 
 
 <img src="https://komarev.com/ghpvc/?username=rahimakhanam&label=Profile%20views&color=0e75b6&style=flat" alt="rahimakhanam" />
