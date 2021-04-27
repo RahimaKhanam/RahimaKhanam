@@ -70,6 +70,13 @@
 </p>
 
 <br>
+Apart from the above mentioned skills, I have even used Adobe Xd for designing Websites and Mobile applications, and Canva for it's various designing options.
+
+<br>
+<br>
+
+*NOTE: Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/sanaeram5/github-readme-stats)*
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimakhanam&show_icons=true&locale=en&layout=compact" alt="rahimakhanam" /></p>
 
