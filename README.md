@@ -8,7 +8,7 @@
 
 - ⚡️ A competitve **Java programmer**.
 
-- 🌱 I’m currently learning **Android Development**
+- 📱 I’m currently learning **Android Development**
 
 - 🤝 Open for collaborations in **Web development 🕸️**
 
