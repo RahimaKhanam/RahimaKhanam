@@ -78,12 +78,12 @@ Apart from the above mentioned skills, I have even used Adobe Xd for designing W
 *NOTE: Top languages does not indicate my skill level or anything like that, it's a github metric for which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/sanaeram5/github-readme-stats)*
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimakhanam&show_icons=true&locale=en&layout=compact" alt="rahimakhanam" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rahimakhanam&show_icons=true&locale=en" alt="rahimakhanam" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimakhanam&show_icons=true&locale=en&layout=compact" alt="rahimakhanam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimakhanam&" alt="rahimakhanam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahimakhanam&show_icons=true&locale=en" alt="rahimakhanam" /></p>
+
 
 
 
