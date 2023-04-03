@@ -1,5 +1,5 @@
 # <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Rahima Khanam 👨‍💻</h1>
-<h3 align="center">Content Writer | UX/UI Designer | Front-end Web developer | App developer</h3>
+<h3 align="center">Software Development Engineer | Front-end Web developer |  UX/UI Designer | Content Writer</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 - 💻 I love exploring **new tech stack and building cool stuffs.**
 
-- 🥅 2023 Goals: **Being Fluent in FullStack Development.**
+- 🥅 2023 Goals: **Being Fluent in Full Stack Development.**
 
 
 <p align= "center"><img src="https://komarev.com/ghpvc/?username=rahimakhanam&label=Profile%20views&color=0e75b6&style=flat" alt="rahimakhanam" /></p>
